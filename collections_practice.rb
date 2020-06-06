@@ -44,7 +44,7 @@ end
 def find_a(array)
  array.find do == |a| 
   array.include? (a)
- end 
+
 end 
 
 
