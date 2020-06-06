@@ -42,14 +42,11 @@ def kesha_maker(array)
 end
 
 def find_a(array)
-def find_the_cheese(beyonce)
- cheese_types = ["cheddar", "gouda", "camembert"]
- beyonce.find do |types| 
-  cheese_types.include? (types)
+ array.find do |a| 
+  array.include? (a)
  end 
 end 
 
-end 
 
 
 def sum_array(array)
